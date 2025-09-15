@@ -1,0 +1,16 @@
+{
+    "name": "com.fscigliano.asyncinitializations",
+    "rootNamespace": "",
+    "references": [
+        "com.fscigliano.propertydrawerscollection"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
