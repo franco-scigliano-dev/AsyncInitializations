@@ -8,8 +8,11 @@ using UnityEngine.Events;
 namespace com.fscigliano.AsyncInitialization
 {
     /// <summary>
-    /// Refactored Initialization Handler that works directly with IInitializable components
-    /// and manages all state internally without requiring wrapper interfaces.
+    /// Modification Date:  18/09/2025
+    /// Product Name:       Async Initializations
+    /// Developers:         Franco Scigliano
+    /// Description:        Refactored Initialization Handler that works directly with IInitializable components
+    ///                     and manages all state internally without requiring wrapper interfaces.
     /// </summary>
     public sealed class InitializationHandler : MonoBehaviour, IInitializable
     {

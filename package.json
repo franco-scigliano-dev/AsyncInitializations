@@ -1,6 +1,6 @@
 {
   "name": "com.fscigliano.asyncinitializations",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Async Initializations",
   "description": "Manages classes that needs async initialization with dependencies between them automatically, with visual editor support.",
   "unity": "2021.3",
